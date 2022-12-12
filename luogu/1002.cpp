@@ -14,6 +14,7 @@ int main() {
     f[mx + 1][my + 2] = 1;
     f[mx + 1][my - 2] = 1;
     f[mx + 2][my - 1] = 1;
+
     f[mx + 2][my + 1] = 1;
     f[mx][my] = 1;
     re[2][1] = 1;
