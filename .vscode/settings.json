@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "test": "c",
+        "stdio.h": "c",
+        "limits": "c",
+        "cstdio": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "cstring": "cpp",
+        "cctype": "cpp",
+        "algorithm": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "initializer_list": "cpp",
+        "iosfwd": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
