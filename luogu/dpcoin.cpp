@@ -12,6 +12,7 @@ void solve() {
     for (int j = 0;j < VALUE;j++) {
         for (int i = type[j];i < MONEY;i++) {
             Min[i] = min(Min[i], Min[i - type[j]] + 1);
+
         }
     }
 }
