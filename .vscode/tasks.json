@@ -11,7 +11,7 @@
                 "-o",
                 "${fileDirname}\\exe\\${fileBasenameNoExtension}.exe",
                 "-Wall",
-                "-O3"
+                "-O2"
             ],
             "options": {
                 "cwd": "${fileDirname}"
