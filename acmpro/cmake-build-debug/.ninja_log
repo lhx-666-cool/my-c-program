@@ -1,0 +1,8 @@
+# ninja log v5
+3	1075	6928043201360898	CMakeFiles/shuweidp.dir/acm/shuweidp.cpp.obj	cd8f99a86b69675
+750	925	6927362015173201	shuweidp.exe	6a0f8a9ab460b615
+984	1189	6928064234768738	1945.exe	80c706f01bc4fd2d
+18	1074	6928043201360898	CMakeFiles/shuweidp.dir/acm/1945.cpp.obj	e121e195a8f3c56e
+3	983	6928064232749583	CMakeFiles/1945.dir/acm/1945.cpp.obj	5387adb88af873af
+0	337	6928090438916907	CMakeFiles/aishishaifa.dir/acm/aishishaifa.cpp.obj	29bde2dfbe8d19d
+338	645	6928090441947797	aishishaifa.exe	279d10956ccbadbd

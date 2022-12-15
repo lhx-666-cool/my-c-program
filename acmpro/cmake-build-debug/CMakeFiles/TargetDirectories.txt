@@ -1,3 +1,6 @@
 D:/hello_c_clion/acmpro/cmake-build-debug/CMakeFiles/acmpro.dir
+D:/hello_c_clion/acmpro/cmake-build-debug/CMakeFiles/shuweidp.dir
+D:/hello_c_clion/acmpro/cmake-build-debug/CMakeFiles/1945.dir
+D:/hello_c_clion/acmpro/cmake-build-debug/CMakeFiles/aishishaifa.dir
 D:/hello_c_clion/acmpro/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/hello_c_clion/acmpro/cmake-build-debug/CMakeFiles/rebuild_cache.dir

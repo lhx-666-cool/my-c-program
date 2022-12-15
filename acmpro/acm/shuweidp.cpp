@@ -1,12 +1,14 @@
-#include <cstdio>
+#include <bits/stdc++.h>
+
 const int LEN = 12;
 int dp[LEN][10];
 int digit[LEN];
+
 void init() {
     dp[0][0] = 1;
-    for (int i = 1;i <= LEN;i++) {
-        for (int j = 0;j < 10;j++) {
-            for (int k = 0;k < 10;k++) {
+    for (int i = 1; i <= LEN; i++) {
+        for (int j = 0; j < 10; j++) {
+            for (int k = 0; k < 10; k++) {
                 if (j != 4) {
                     dp[i][j] += dp[i - 1][k];
                 }
@@ -14,21 +16,23 @@ void init() {
         }
     }
 }
+
 int solve(int len) {
     int ans = 0;
-    for (int i = len;i >= 1;i--) {
-        for (int j = 0;j < digit[i];j++) {
+    for (int i = len; i >= 1; i--) {
+        for (int j = 0; j < digit[i]; j++) {
             if (j != 4) {
                 ans += dp[i][j];
             }
-            if (digit[i] == 4) {
-                ans--;
-                break;
-            }
+        }
+        if (digit[i] == 4) {
+            ans--;
+            break;
         }
     }
     return ans;
 }
+
 int main() {
     int n, len = 0;
     init();

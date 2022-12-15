@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "acmpro",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1945::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1945-Debug-35125d851d3d85f969cd.json",
+					"name" : "1945",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "acmpro::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-acmpro-Debug-12bb8e55b31fe8c38674.json",
+					"name" : "acmpro",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aishishaifa::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aishishaifa-Debug-355db32e4c1c36e41d4e.json",
+					"name" : "aishishaifa",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shuweidp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shuweidp-Debug-676b94a28c2153268d88.json",
+					"name" : "shuweidp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/hello_c_clion/acmpro/cmake-build-debug",
+		"source" : "D:/hello_c_clion/acmpro"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
