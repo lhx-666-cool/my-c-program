@@ -39,7 +39,7 @@ int main() {
         q.pop();
     }
     printf("%s\n", res);
-    int sum = 0;
+    long long int sum = 0;
     char* x = res;
     for (int i = 0;i < head - m + 1;i++) {
         x = max_element(x, res + head + 1);
