@@ -11,25 +11,7 @@ typedef struct student {
 student s[100001];
 int n, l, h;
 int cmp(student x, student y) {
-    if (x.sta == y.sta) {
-        if (x.d_c_sum > y.d_c_sum) {
-            return 1;
-        } else if (x.d_c_sum == y.d_c_sum) {
-            if (x.de > y.de) {
-                return 1;
-            } else if (x.de == y.de) {
-                if (x.id < y.id) {
-                    return 1;
-                } else {
-                    return 0;
-                }
-            } else {
-                return 0;
-            }
-        } else {
-            return 0;
-        }
-    } else if (x.sta < y.sta) {
+    if (x.sta < y.sta || (x.sta == y.sta && x.d_c_sum > y.d_c_sum) || (x.sta == y.sta && x.d_c_sum == y.d_c_sum && x.de > y.de) || (x.sta == y.sta && x.d_c_sum == y.d_c_sum && x.de == y.de && x.id < y.id)) {
         return 1;
     } else {
         return 0;
