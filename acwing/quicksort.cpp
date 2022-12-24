@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-const int N = 1000;
+const int N = 1e6 + 10;
 int n;
 int Q[N];
 void quick_sort(int q[], int l, int r) {
