@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int m, n;
 long long arr[25][25] = { 0 };
 void dp()
