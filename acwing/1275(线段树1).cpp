@@ -3,7 +3,7 @@ using namespace std;
 const int N = 2e5 + 10;
 struct Node {
     int l, r, v;
-}tr[N * 2];
+}tr[N * 4];
 int m, p;
 void pushup(int u) {
     tr[u].v = max(tr[u * 2].v, tr[u * 2 + 1].v);
