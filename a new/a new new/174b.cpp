@@ -2,6 +2,7 @@
 #include<cstring>
 using namespace std;
 const int N = 210, M = 80000, base = 40000;
+//base是偏移量
 int f[N][M];
 int main() {
     int n;
