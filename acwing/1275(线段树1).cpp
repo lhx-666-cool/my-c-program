@@ -18,7 +18,7 @@ void build(int u, int l, int r) {
     build(u * 2 + 1, mid + 1, r);
 }
 int query(int u, int l, int r) {
-    if (tr[u].l <= l && tr[u].r >= r) {
+    if (tr[u].l >= l && tr[u].r <= r) {
         return tr[u].v;
     }
     int v = 0;
