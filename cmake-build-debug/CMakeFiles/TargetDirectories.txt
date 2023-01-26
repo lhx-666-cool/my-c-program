@@ -24,5 +24,6 @@ D:/hello_c_clion/cmake-build-debug/CMakeFiles/chazhao.dir
 D:/hello_c_clion/cmake-build-debug/CMakeFiles/tongjizhenzhenshugeshu.dir
 D:/hello_c_clion/cmake-build-debug/CMakeFiles/zhongjianshu.dir
 D:/hello_c_clion/cmake-build-debug/CMakeFiles/hdu2089shuweidp.dir
+D:/hello_c_clion/cmake-build-debug/CMakeFiles/d.dir
 D:/hello_c_clion/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/hello_c_clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
