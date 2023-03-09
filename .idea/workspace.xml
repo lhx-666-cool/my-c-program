@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="hello_c_clion" targetName="wendutongji" />
-      <config projectName="hello_c_clion" targetName="zhenzhenshudezuiyoufenjie" />
-      <config projectName="hello_c_clion" targetName="zhenzhenshuzuiyoufenjiecsdn" />
-      <config projectName="hello_c_clion" targetName="1.liangshuzhihe" />
-      <config projectName="hello_c_clion" targetName="chenjifengji" />
-      <config projectName="hello_c_clion" targetName="zifuchuanyuansutongji" />
-      <config projectName="hello_c_clion" targetName="chazhao" />
-      <config projectName="hello_c_clion" targetName="hello_c_clion" />
-      <config projectName="hello_c_clion" targetName="shuixianhuashu" />
-      <config projectName="hello_c_clion" targetName="a+b+c" />
-      <config projectName="hello_c_clion" targetName="huiwenshu" />
-      <config projectName="hello_c_clion" targetName="zhongjianshu" />
-      <config projectName="hello_c_clion" targetName="jiecheng" />
-      <config projectName="hello_c_clion" targetName="lcq" />
-      <config projectName="hello_c_clion" targetName="16jinzhizhuan10jinzhi" />
-      <config projectName="hello_c_clion" targetName="dencushulie" />
-      <config projectName="hello_c_clion" targetName="341" />
-      <config projectName="hello_c_clion" targetName="lbzbudaikongge" />
-      <config projectName="hello_c_clion" targetName="test2" />
-      <config projectName="hello_c_clion" targetName="6.const" />
-      <config projectName="hello_c_clion" targetName="tongjizhenzhenshugeshu" />
-      <config projectName="hello_c_clion" targetName="xiaoqiuxialuowenti" />
-      <config projectName="hello_c_clion" targetName="zuixiaogongbeishu" />
-      <config projectName="hello_c_clion" targetName="panduanshifouweisushu" />
-      <config projectName="hello_c_clion" targetName="shucujinzita" />
+      <config projectName="Project" targetName="jiecheng" />
+      <config projectName="Project" targetName="341" />
+      <config projectName="Project" targetName="lbzbudaikongge" />
+      <config projectName="Project" targetName="a+b+c" />
+      <config projectName="Project" targetName="zhongjianshu" />
+      <config projectName="Project" targetName="16jinzhizhuan10jinzhi" />
+      <config projectName="Project" targetName="huiwenshu" />
+      <config projectName="Project" targetName="1.liangshuzhihe" />
+      <config projectName="Project" targetName="lcq" />
+      <config projectName="Project" targetName="xiaoqiuxialuowenti" />
+      <config projectName="Project" targetName="6.const" />
+      <config projectName="Project" targetName="zuixiaogongbeishu" />
+      <config projectName="Project" targetName="panduanshifouweisushu" />
+      <config projectName="Project" targetName="zhenzhenshuzuiyoufenjiecsdn" />
+      <config projectName="Project" targetName="test2" />
+      <config projectName="Project" targetName="shucujinzita" />
+      <config projectName="Project" targetName="chenjifengji" />
+      <config projectName="Project" targetName="dencushulie" />
+      <config projectName="Project" targetName="tongjizhenzhenshugeshu" />
+      <config projectName="Project" targetName="zhenzhenshudezuiyoufenjie" />
+      <config projectName="Project" targetName="zifuchuanyuansutongji" />
+      <config projectName="Project" targetName="shuixianhuashu" />
+      <config projectName="Project" targetName="chazhao" />
+      <config projectName="Project" targetName="wendutongji" />
+      <config projectName="Project" targetName="hello_c_clion" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -42,17 +42,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ac2e211-16e4-48aa-9302-73518d4e402f" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2021/exe/d.exe" beforeDir="false" afterPath="$PROJECT_DIR$/2021/exe/d.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.fleet/run.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/acmpro/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/acmpro/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/luogu/1024.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/luogu/1024.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/luogu/exe/1024.exe" beforeDir="false" afterPath="$PROJECT_DIR$/luogu/exe/1024.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,16 +76,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true"
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "D:/clion program",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -103,6 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674706211369</updated>
       <workItem from="1674706212906" duration="91000" />
+      <workItem from="1675648984155" duration="186000" />
     </task>
     <servers />
   </component>

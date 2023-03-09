@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.23)
 project(hello_c_clion C)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
 set(CMAKE_C_STANDARD 99)
 
 add_executable(hello_c_clion main.c)

@@ -1,6 +1,0 @@
-"D:\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S D:\hello_c_clion -B D:\hello_c_clion\cmake-build-debug
--- Configuring done
-CMake Error: CMake can not determine linker language for target: hdu2089shuweidp
-CMake Error: CMake can not determine linker language for target: d
--- Generating done
-CMake Generate step failed.  Build files cannot be regenerated correctly.
